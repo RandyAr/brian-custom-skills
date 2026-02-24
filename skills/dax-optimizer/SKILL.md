@@ -2,19 +2,13 @@
 name: dax-optimizer
 description: >
   DAX code optimizer, performance analyzer, and anti-pattern detector for Power BI and
-  Analysis Services. Triggers when the user wants to optimize DAX code, review Power BI
-  measures, improve calculated columns, refactor calculated tables, fix DAX performance
-  issues, perform query optimization, troubleshoot slow reports, diagnose slow datasets,
-  detect DAX anti-patterns, or review any DAX expression for best practices.
-  Also activates for: CALCULATE, SUMMARIZECOLUMNS, VAR/RETURN, KEEPFILTERS,
-  REMOVEFILTERS, ALL, ALLEXCEPT, ALLSELECTED, time intelligence, DATEADD,
-  SAMEPERIODLASTYEAR, TOTALYTD, DATESYTD, PARALLELPERIOD, VertiPaq, storage engine,
-  formula engine, iterator, aggregator, context transition, filter context, row context,
-  SUMX, AVERAGEX, COUNTROWS, FILTER, ADDCOLUMNS, SUMMARIZE, EARLIER, SWITCH,
-  SELECTEDVALUE, HASONEVALUE, CROSSFILTER, USERELATIONSHIP, TREATAS, DISTINCTCOUNT,
-  disconnected tables, calculation groups, field parameters, query folding DAX,
-  composite models DAX, DirectQuery DAX optimization, aggregation tables, dual storage
-  mode, Power BI performance analyzer, DAX Studio, VertiPaq Analyzer, best practices.
+  Analysis Services. Triggers on: optimize DAX, review Power BI measures, fix DAX
+  performance, query optimization, slow reports, DAX anti-patterns, best practices.
+  Keywords: CALCULATE, SUMMARIZECOLUMNS, VAR/RETURN, KEEPFILTERS, REMOVEFILTERS, ALL,
+  ALLEXCEPT, ALLSELECTED, time intelligence, DATEADD, SAMEPERIODLASTYEAR, TOTALYTD,
+  VertiPaq, storage engine, formula engine, context transition, filter context,
+  row context, SUMX, AVERAGEX, FILTER, ADDCOLUMNS, SUMMARIZE, SWITCH, TREATAS,
+  calculation groups, field parameters, DirectQuery DAX, DAX Studio, VertiPaq Analyzer.
 ---
 
 # DAX Optimizer
